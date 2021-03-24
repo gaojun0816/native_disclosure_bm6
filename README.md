@@ -4,6 +4,7 @@ It includes features:
 + invocation to Java Android APIs
 + mixed statical and dynamic registration of JNI functions.
 + object and class obtained from passed-in *this* pointer.
++ chained invocation of more than 1 Java method.
 
 
 NOTE: this app need certain permission to obtain IMEI. For simplicity reason,
